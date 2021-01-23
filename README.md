@@ -7,7 +7,7 @@ branch2 test.
 branch2 and merge test.
 test2 new and merge test.
 
-merge test! merge test! merge add file.
+merge test! for remerge.
 
 merge test for add file.
 # test
