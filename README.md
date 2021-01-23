@@ -8,4 +8,6 @@ branch2 and merge test.
 test2 new and merge test.
 
 merge test! merge test!
+
+merge test for add file.
 # test
