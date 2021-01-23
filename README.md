@@ -8,7 +8,7 @@ branch2 and merge test.
 test2 new and merge test.
 
 test2 new for test merge.
-merge test and test2
+for remerge.
 
 this is from test2.
 
