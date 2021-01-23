@@ -6,4 +6,6 @@ branch2 test.
 
 branch2 and merge test.
 test2 new and merge test.
+
+test2 new for test merge.
 # test
