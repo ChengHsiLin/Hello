@@ -11,5 +11,6 @@ test2 new for test merge.
 for remerge.
 
 this is from test2.
+merge test! for remerge.
 
 # test
