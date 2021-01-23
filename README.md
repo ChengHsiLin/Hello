@@ -4,6 +4,6 @@
 branch2 test.
 一個互蓋
 
-branch2.
-test2 new.
+branch2 and merge test.
+test2 new and merge test.
 # test
